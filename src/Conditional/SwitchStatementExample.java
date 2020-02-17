@@ -1,4 +1,4 @@
-package Conditional;
+package conditional;
 
 public class SwitchStatementExample {
 	public static void main(String[]args) {
